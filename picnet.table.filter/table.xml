@@ -1,0 +1,7 @@
+<?xml version="1.0"?><?xml-stylesheet type="text/xsl" href="table.xsl"?>
+<stuff>
+<script src="xslt-polyfill-1.0.36.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+  <item eat="Burger" drink="Lemonade" />
+  <item eat="Salad" drink="Water" />
+</stuff>
+
